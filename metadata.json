@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Pathfinding Algorithm Comparator",
+  "description": "A web application that allows users to select multiple pathfinding algorithms and visualize them running simultaneously on identical grid setups for direct performance and path comparison.",
+  "requestFramePermissions": []
+}
